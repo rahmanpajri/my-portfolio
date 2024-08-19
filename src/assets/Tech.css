@@ -1,0 +1,12 @@
+.icon-container {
+    padding: 16px;
+  }
+  
+  .slick-slide > div {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .slick-list {
+    padding: 0 10px; /* Adjust as needed for side padding */
+  }
