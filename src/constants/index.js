@@ -13,7 +13,7 @@ import cancerdetect from "../assets/projects/cancerdetect.png";
 import webcon from "../assets/projects/web-conf.png";
 import storyapp from "../assets/projects/storyapp.png"
 
-export const HERO_CONTENT = `I am a Mobile Developer who is passionate about developing mobile-based applications. With 2 years of experience in the mobile developer field, I have skills including kotlin, java, dart, firebase, MySQL, mobile testing tools, and many other skills. My goal is to utilize my skills to create application solutions that can be useful and improve user experience.`;
+export const HERO_CONTENT = `I am a developer who has a passion in developing mobile-based applications and website development. With 2 years experience in mobile developer and 2 years experience in website developer, I have skills including kotlin, java, dart, firebase, MySQL, testing tools, php, javascript, css, and many other skills. My goal is to utilize my skills to create application solutions that can benefit and improve user experience.`;
 
 export const ABOUT_TEXT = `Fresh graduate with a bachelor's degree in the Informatics Engineering study program at Institut Teknologi 
 Sumatera with GPA 3.8 who has an interest in working in Mobile Application and Website Development. Have experience 
@@ -175,7 +175,7 @@ export const PROJECTS = [
     image: kembang,
     description:
       "Became a Project manager on the development of the Website of a Flower Company engaged in Product / Service Solutions",
-    technologies: ["", "", "", "", ""],
+    technologies: ["Trello", "Gmeet", "Wordpress"],
     link: "https://kembang.id/"
   },
   {

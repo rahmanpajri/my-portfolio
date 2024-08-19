@@ -22,10 +22,10 @@ const Hero = () => {
             Rahman Pajri
           </motion.h1>
           <motion.span variants={container(0.5)} initial="hidden" animate="visible" className="bg-gradient-to-r from-pink-400 via-neutral-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent">
-            Mobile Developer
+            Mobile Developer | Web Developer
           </motion.span>
-          <motion.p variants={container(1)} initial="hidden" animate="visible" className=" max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</motion.p>
-          <a href="https://drive.google.com/file/d/1QSn2Pub2EP2nZLmk9Wwsmb6diSMxAGd3/view?usp=sharing"><motion.button variants={container(1.2)} initial="hidden" animate="visible" class="my-3 max-w-xl bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-lg transform hover:scale-105 transition-transform duration-200 ease-in-out">
+          <motion.p variants={container(1)} initial="hidden" animate="visible" className=" max-w-xl py-6 font-light tracking-tigh">{HERO_CONTENT}</motion.p>
+          <a href="https://drive.google.com/file/d/1QSn2Pub2EP2nZLmk9Wwsmb6diSMxAGd3/view?usp=sharing"><motion.button variants={container(1.2)} initial="hidden" animate="visible" class="my-3 max-w-xl bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded shadow-lg transform hover:scale-105 transition-transform duration-200 ease-in-out">
             Know Me!
           </motion.button></a>
         </div>
